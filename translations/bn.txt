@@ -227,7 +227,7 @@ original=Right-to-left (RTL)
 translation=ডান থেকে বাম (RTL)
 
 [setting.editor.option-rtl-description]
-original=Sets the default text direction of notes to right-to-left.
+original=Sets the  text direction of notes to right-to-left.
 translation=এটা চালু করুন যদি ডান থেকে বামে লেখা দেখতে চান।
 
 [setting.editor.option-auto-convert-html]
@@ -312,7 +312,7 @@ translation=এই বিকল্পটি নিশ্চিত করে য�
 
 [setting.file.option-trash]
 original=Trash
-translation=
+translation=ট্র্যাশ
 
 [setting.file.option-delete-destination]
 original=Deleted files
@@ -336,35 +336,35 @@ translation=সম্পূর্ণভাবে মোছা হবে
 
 [setting.file.option-default-open-action]
 original=Default file to open
-translation=
+translation=স্বয়ংক্রিয়ভাবে ফাইল খোলার জন্য
 
 [setting.file.option-default-open-action-description]
 original=Choose which file to open when the app starts.
-translation=
+translation=অ্যাপটি শুরু হলে কোন ফাইলটি খুলবেন সেটা ঠিক করুন।
 
 [setting.file.option-choice-last-opened]
 original=Last opened
-translation=
+translation=শেষ খোলা হয়েছিল
 
 [setting.file.option-choice-new-note]
 original=New note
-translation=
+translation=নতুন নোট
 
 [setting.file.option-choice-specific-file]
 original=Specific file
-translation=
+translation=নির্দিষ্ট ফাইল
 
 [setting.file.option-choice-daily-note]
 original=Daily note
-translation=
+translation=দৈনিক নোট
 
 [setting.file.option-default-open-file-path]
 original=File to open
-translation=
+translation=ফাইল খুলুন
 
 [setting.file.option-default-open-file-path-description]
 original=Select a specific file to open by default.
-translation=
+translation=পূর্বনির্ধারিতভাবে খোলার জন্য একটি নির্দিষ্ট ফাইল নির্বাচন করুন।
 
 [setting.file.option-always-update-links]
 original=Automatically update internal links
@@ -420,7 +420,7 @@ translation=যেকোনো এক্সটেনশন সহ ফাইল �
 
 [setting.file.option-links]
 original=Links
-translation=
+translation=লিঙ্ক
 
 [setting.file.option-link-autocompleted-format]
 original=New link format
@@ -2140,7 +2140,7 @@ translation=ফিল্টার...
 
 [interface.url]
 original=URL
-translation=Url
+translation=URL
 
 [interface.msg-codeblock-render-error]
 original=Encountered an error while rendering code block.
@@ -2156,7 +2156,7 @@ translation="{{name}}" ফাইলটি খুঁজে পাওয়া যা
 
 [interface.msg-invalid-uri-action]
 original=Unrecognized URI action: {{action}}
-translation=
+translation=অজানা URI অ্যাকশন: {{action}} 
 
 [interface.delete-action-short-name]
 original=Delete
